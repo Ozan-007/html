@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+div.photo{
+    justify-content: center;
+}
+ul{
+    color: white;
+    margin-left: 40px;
+    font-family: 'Lobster', cursive;    
+}
+div{
+    color: white;
+}
+
+img{
+    width: 375px;
+}
+
+#info{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+.photo h1, h4, img{
+    margin-left:  600px;
+    font-family: 'Lobster', cursive;
+    
+}
+h4{
+    margin-left: 750px;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    padding-left: 100px;
+    font-family: 'Lobster', cursive;
+
+}
+footer{
+
+    margin-left: 650px;
+
+}
